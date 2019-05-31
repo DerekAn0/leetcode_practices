@@ -1,7 +1,6 @@
 class Solution:
     def divisorGame(self, N: int) -> bool:
 
-    	map = {1:False,2:True,3:False}
     	if N == 2:
     		return True
     	elif N == 1 or N == 3:
@@ -17,7 +16,6 @@ class Solution:
 	    				break
 	    			else:
 	    				if index == len(bob_choice)-1:
-	    					map[N-i-j] = True
 	    					return True
 	    				else:
 	    					continue
