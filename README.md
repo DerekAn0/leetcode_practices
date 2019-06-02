@@ -1,2 +1,3 @@
 # leetcode_practices
-python source code for resolving problems
+Python 3.7 code for practices
+
