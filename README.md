@@ -1,2 +1,2 @@
 # leetcode_practices
-python source code for resolving problems
+Python source code for resolving problems
