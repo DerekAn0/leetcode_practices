@@ -2,7 +2,7 @@
 
 ►Subscribe to my YouTube Channel http://bit.ly/2LCdOy1
 
-RECOMMENDED BOOKS IN MY STORE https://www.amazon.com/shop/pythonpro...
+RECOMMENDED BOOKS IN MY STORE https://www.amazon.com/shop/pythonprogrammer
 
 Music by bensound.com
 
@@ -10,9 +10,9 @@ PYTHON BASICS
 
 Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics https://lectures.quantecon.org/py/
 
-Chapters 1 - 4 in this book https://github.com/jakevdp/PythonData...
+Chapters 1 - 4 in this book https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb
 
-Then this Pandas tutorial https://pandas.pydata.org/pandas-docs...
+Then this Pandas tutorial https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 Here are some excellent pandas code examples https://github.com/wesm/pydata-book
 
@@ -22,10 +22,10 @@ MATHS
 
 LINEAR ALGEBRA 
 
-Essence of Linear Algebra https://www.youtube.com/watch?v=fNk_z...
-Khan Academy https://www.khanacademy.org/math/line...
-https://betterexplained.com/articles/...
-Introduction to Methods of Applied Mathematics http://physics.bgu.ac.il/~gedalin/Tea...
+Essence of Linear Algebra https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Khan Academy https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=vxaM0hUXRxrdQyeS6N4SPPcAwG18MTU2MDI2NzI0NEAxNTYwMTgwODQ0&q=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Flinear-algebra
+https://betterexplained.com/articles/linear-algebra-guide/
+Introduction to Methods of Applied Mathematics https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=vxaM0hUXRxrdQyeS6N4SPPcAwG18MTU2MDI2NzI0NEAxNTYwMTgwODQ0&q=http%3A%2F%2Fphysics.bgu.ac.il%2F%7Egedalin%2FTeaching%2FMater%2Fam.pdf
 Mathematical Tools for Physics http://www.physics.miami.edu/~nearing...
 https://www.math.ubc.ca/~carrell/NB.pdf (Linear Algebra Reference)
 https://math.byu.edu/~klkuttle/Essent... (Reference)
