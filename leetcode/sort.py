@@ -4,7 +4,7 @@ class Sort:
 
 	@classmethod
 	def __str__(cls):
-		return '{0.after_list}'.format(cls)
+		return '原数组：{0.test_list}\n排序之后：{1.after_list}'.format(cls,cls)
 
 	def Quick(self):
 		pass
@@ -16,12 +16,32 @@ class Sort:
 
 	@classmethod
 	def Direct_Insert(cls):
-		pass
+		# 以第一个为pivot 之后一个个插入已知有序序列
+		n = len(cls.after_list)
+		for i in range(1,n):
+			# from 2 index
+			j=i
+			while j>0 and cls.after_list[j] < cls.after_list[j-1]:
+				cls.after_list[j],cls.after_list[j-1] = cls.after_list[j-1],cls.after_list[j] 
+				j-=1
 
 
 	@classmethod
+	def Insert(cls):
+		n = len(cls.after_list)
+		for i in range(1,n):
+			target = cls.after_list[i]
+			j = i 
+			# forward
+			while target<cls.after_list[j-1] and j>0:
+				# print(cls.after_list[j])
+				cls.after_list[j] = cls.after_list[j-1]
+				j -= 1
+			cls.after_list[j] = target
+
+	@classmethod
 	def Bubble(cls):
-		print(cls.test_list)
+		print(cls.after_list)
 		n = len(cls.after_list)
 		for i in range(n-1):
 			for j in range(n-i-1):
@@ -30,5 +50,6 @@ class Sort:
 
 
 
-Sort.Bubble()
+Sort.Insert()
 print(Sort())
+
