@@ -40,4 +40,7 @@ sort_list = [3,11,21,29,41,54,61,78,110,127]
 searcher = BinarySearch(sort_list,127)
 print(searcher.search(sort_list))
 
+# time complexity : O(logn) 
+# space complexity : O(1)
+
 
